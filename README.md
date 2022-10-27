@@ -13,7 +13,7 @@ The library currently implements:
 
 ## Build guide
 
-To compile and execute `hsnp`, you should place `hsnp-poly-commit` (a fork of `ark_poly_commit`) in a sibling directory.
+To compile and execute `hsnp`, you should place `hsnp-poly-commit` (a fork of `ark_poly_commit` available [here](https://github.com/dariofiore/hsnp-poly-commit)) in a sibling directory.
 
 To compile:
 
